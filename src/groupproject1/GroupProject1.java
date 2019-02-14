@@ -18,5 +18,8 @@ public class GroupProject1 {
     {
         System.out.println("Hello World");
     }
-    
+    public void ErikWasHere()
+    {
+        System.out.println("Erik Garrow was here");
+    }
 }
